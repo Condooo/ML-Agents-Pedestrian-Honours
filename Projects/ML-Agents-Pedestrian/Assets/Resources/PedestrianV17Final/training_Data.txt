@@ -1,0 +1,12 @@
+man-clown: 34
+man-cowboy: 67
+man-hazard: 35
+man-lumberjack: 38
+man-ninja: 66
+man-pirate: 32
+man-skate: 69
+woman-astronaut: 17
+woman-business: 44
+woman-lumberjack: 56
+woman-skate: 55
+woman-swimsuit: 56

@@ -1,0 +1,4 @@
+Agent speed: 5
+Pedestrian collision: 0
+Checkpoints hit: 1
+Checkpoint/pedestrian rate: NO PEDESTRIANS HIT

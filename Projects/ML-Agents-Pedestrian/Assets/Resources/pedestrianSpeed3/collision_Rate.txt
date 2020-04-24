@@ -1,0 +1,4 @@
+Agent speed: 3
+Pedestrian collision: 1562
+Checkpoints hit: 3591
+Checkpoint/pedestrian rate: 2.299

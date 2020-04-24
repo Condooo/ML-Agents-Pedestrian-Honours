@@ -1,0 +1,12 @@
+man-astronaut: 226
+man-basketball-player: 253
+man-boxer: 257
+man-business: 160
+man-casual: 264
+man-chef: 274
+man-construction-worker: 249
+man-cyclist: 268
+man-diving: 132
+man-doctor: 270
+man-farm: 248
+man-fire: 150

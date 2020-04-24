@@ -1,0 +1,12 @@
+man-clown: 117
+man-cowboy: 159
+man-hazard: 91
+man-lumberjack: 123
+man-ninja: 148
+man-pirate: 113
+man-skate: 143
+woman-astronaut: 83
+woman-business: 168
+woman-lumberjack: 127
+woman-skate: 146
+woman-swimsuit: 144
